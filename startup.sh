@@ -1,1 +1,1 @@
-parts start apache2& mysql& ungit&
+parts start apache2& mysql& ungit --port=9501&

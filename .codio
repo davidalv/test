@@ -3,7 +3,8 @@
 
 // Run button configuration
   "commands": {
-        "Node version": "node --version"
+        "Node version": "node --version",
+        "Visit Ungit": "https://localhost:9501/#/repository?path=/home/codio/workspace"
   },
 
 // Preview button configuration
